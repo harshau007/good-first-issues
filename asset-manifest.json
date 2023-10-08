@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/good-first-issues/static/css/main.073c9b0a.css",
+    "main.js": "/good-first-issues/static/js/main.22a0fa10.js",
+    "static/js/787.7bf52b5d.chunk.js": "/good-first-issues/static/js/787.7bf52b5d.chunk.js",
+    "static/media/logo.svg": "/good-first-issues/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/good-first-issues/index.html",
+    "main.073c9b0a.css.map": "/good-first-issues/static/css/main.073c9b0a.css.map",
+    "main.22a0fa10.js.map": "/good-first-issues/static/js/main.22a0fa10.js.map",
+    "787.7bf52b5d.chunk.js.map": "/good-first-issues/static/js/787.7bf52b5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22a0fa10.js"
+  ]
+}
