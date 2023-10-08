@@ -1,7 +1,7 @@
 {
   "name": "good-first-issues",
   "version": "0.1.0",
-  "homepage": "https://himanshu-03.github.io/good-first-issues",
+  "homepage": "https://himanshu-03.github.io/good-first-issues/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
