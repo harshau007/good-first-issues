@@ -34,7 +34,10 @@ const Navbar = () => {
     ];
     
   return (
-    <div className='h-16 flex justify-between mx-auto items-center w-full md:h-24 text-white fixed px-4 z-50'>
+    <div className='h-16 flex justify-between mx-auto items-center w-full md:h-24 text-white fixed px-4 z-50' style={{
+      background: "white",
+      borderBottom: '1px solid black'
+    }}>
       <div>
         <img src={logo} alt="my logo" className='w-[50px] ml-4 mt-4 mb-4 md:w-[90px]'/>
       </div>
